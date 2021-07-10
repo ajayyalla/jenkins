@@ -11,6 +11,7 @@ Continueos Integration :
 CI means continueosly developing the code , continueosly combining the code, so that we can fix the bugs as per the time line 
 and also we can reduce the time during the release in your line.
 
+sfvsdfb
 
 Continueos Delivery: ( Manual approach)
 
