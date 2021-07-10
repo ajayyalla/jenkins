@@ -63,7 +63,7 @@ Devops is a culture / Software developement approach , which involves continueos
 continueosly integrating the tools , continueosly deploying the applications, continueosly monitoring the applications through out entire 
 
 its software developement life cycle.---
-khibljlcjlkjn
+
 
 
 dev --->> code --->> github(push) --->> time save , bugs fix easy 
