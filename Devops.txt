@@ -14,7 +14,7 @@ and also we can reduce the time during the release in your line.
 sfvsdfb
 
 Continueos Delivery: ( Manual approach)
-
+this is thejvjkdvjhadv
 It is nothing but what ever we generate the package into your environment. suppose If I want continueosly delivery into each and 
 every environment. If we can do review and then we can deploy into the environment. 
 
